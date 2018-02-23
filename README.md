@@ -1,2 +1,6 @@
 # cryptozombies
-Lessons from cryptozombies.io website
+First 4 lessons from cryptozombies.io website
+
+Lessons Learned: 
+
+- 
